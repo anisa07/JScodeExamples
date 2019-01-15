@@ -4,3 +4,4 @@ Suggest solution for tasks from [Code Clean Developer School](https://ccd-school
 
 ### Tasks
 * [CSV parser](https://ccd-school.de/coding-dojo/function-katas/csv-tabellieren/)
+`npm run csv`
