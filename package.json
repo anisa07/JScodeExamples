@@ -5,12 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "csv": "node functions/csv/index.js"
+    "csv": "node functions/csv/index.js",
+    "fizz-buzz": "node functions/fizzbuzz/index.js"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "csv": "^5.1.1",
-    "csv-parser": "^2.1.0"
-  }
+  "dependencies": {}
 }
