@@ -9,3 +9,6 @@ Run example
 * [Fizz Buzz](https://ccd-school.de/coding-dojo/function-katas/fizzbuzz/).
 Run example
 `npm run fizz-buzz`
+* [From Roman Numerals](https://ccd-school.de/coding-dojo/function-katas/from-roman-numerals/).
+Run example
+`npm run from-roman`
