@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "csv": "node functions/csv/index.js",
     "fizz-buzz": "node functions/fizzbuzz/index.js",
-    "from-roman": "node functions/romanNumbers/index.js"
+    "from-roman": "node functions/romanNumbers/index.js",
+    "merry-number": "node functions/happyNumbers/index.js"
   },
   "author": "",
   "license": "ISC",
