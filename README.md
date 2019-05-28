@@ -12,3 +12,6 @@ Run example
 * [From Roman Numerals](https://ccd-school.de/coding-dojo/function-katas/from-roman-numerals/).
 Run example
 `npm run from-roman`
+* [Merry Numbers](https://ccd-school.de/coding-dojo/function-katas/froehliche-zahlen/).
+Run example
+`npm run merry-number`
